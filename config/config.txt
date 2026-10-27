@@ -1,4 +1,10 @@
 Cambios realizados por Luis
 Segunda modificacion Luis
+<<<<<<< HEAD
 Texto MAIN MODIFICADO
 
+=======
+Texto MAIN
+Texto compañero5
+Texto main
+>>>>>>> compañero5
