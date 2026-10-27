@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Segunda modificacion Maria
-=======
-Cambios realizados por Pedro
-Segunda modificacion Pedro
->>>>>>> compañero3
+Cambios realizados por Luis
+Segunda modificacion Luis
+
